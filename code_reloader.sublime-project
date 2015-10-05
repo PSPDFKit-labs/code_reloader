@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "folder_exclude_patterns": ["_build", "log", "deps/*/test"],
+      "file_exclude_patterns": ["*.sublime-project", "*.beam", "erl_crash.dump", "erlang.mk"],
+		}
+  ],
+  "settings":
+  {
+    "word_wrap": true,
+    "wrap_width": 100,
+  },
+}
